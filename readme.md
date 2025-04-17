@@ -178,7 +178,7 @@ sudo systemctl start insignia
 
 On any machine (local or remote) with Python 3:
 ```bash
-git clone https://github.com/youruser/insignia.git
+git clone https://github.com/opsec-bot/insignia.git
 cd insignia
 cp .env.example .env        # or create .env with same variables
 # adjust API_URL=https://auth.example.com/api, API_SECRET=
